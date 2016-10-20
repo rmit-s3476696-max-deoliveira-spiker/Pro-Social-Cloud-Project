@@ -1,0 +1,76 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="prosocial.com" resolutions="1x" timestamp="1476512637293">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="log-in.css" crc="4213270007" ref="log-in"/>
+    <file name="user.css" crc="4218155804" ref="user"/>
+    <file name="sign-up.css" crc="272182832" ref="sign-up"/>
+    <file name="index.css" crc="224460027" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="phone>index:phone>user:phone>sign-up:phone>log-in:user:index:log-in:sign-up"/>
+    <file name="museutils.js" crc="275725342" ref="phone>index:phone>user:phone>sign-up:phone>log-in:user:index:log-in:sign-up"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="phone>index:phone>user:phone>sign-up:phone>log-in:user:index:log-in:sign-up"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="user:index:log-in:sign-up"/>
+    <file name="pie.js" crc="3827607177" ref="user:log-in:sign-up"/>
+    <file name="html5shiv.js" crc="4241844378" ref="user:index:log-in:sign-up"/>
+    <file name="webpro.js" crc="3883484123" ref="index"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="index"/>
+    <file name="touchswipe.js" crc="4218319045" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u224-6.png" crc="4085135430" ref="user"/>
+    <file name="blank.gif" crc="4208392903" ref="user:index:log-in:sign-up"/>
+    <file name="u531.png" crc="4243331829" ref="user"/>
+    <file name="u531-a.png" crc="4243331829" ref="user"/>
+    <file name="u348-4-a.png" crc="240176289" ref="user"/>
+    <file name="u1077.png" crc="3797175646" ref="user"/>
+    <file name="u1077-a.png" crc="3797175646" ref="user"/>
+    <file name="u708.png" crc="3821802401" ref="user"/>
+    <file name="u708-a.png" crc="3821802401" ref="user"/>
+    <file name="u492-6.png" crc="4085135430" ref="index"/>
+    <file name="u536-4-a.png" crc="4243331829" ref="index"/>
+    <file name="u519.png" crc="240176289" ref="index"/>
+    <file name="u519-a.png" crc="240176289" ref="index"/>
+    <file name="u1082.png" crc="3797175646" ref="index"/>
+    <file name="u1082-a.png" crc="3797175646" ref="index"/>
+    <file name="u716.png" crc="3821802401" ref="index"/>
+    <file name="u716-a.png" crc="3821802401" ref="index"/>
+    <file name="cactus.jpg" crc="4203176078" seo="true" ref="index"/>
+    <file name="road.jpg" crc="4032504927" seo="true" ref="index"/>
+    <file name="trees.jpg" crc="262675519" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u682-6.png" crc="4085135430" ref="log-in"/>
+    <file name="u640.png" crc="4243331829" ref="log-in"/>
+    <file name="u640-a.png" crc="4243331829" ref="log-in"/>
+    <file name="u664.png" crc="240176289" ref="log-in"/>
+    <file name="u664-a.png" crc="240176289" ref="log-in"/>
+    <file name="u1089.png" crc="3797175646" ref="log-in"/>
+    <file name="u1089-a.png" crc="3797175646" ref="log-in"/>
+    <file name="u729-4-a.png" crc="3821802401" ref="log-in"/>
+    <file name="u1038-6.png" crc="4085135430" ref="sign-up"/>
+    <file name="u1032.png" crc="4243331829" ref="sign-up"/>
+    <file name="u1032-a.png" crc="4243331829" ref="sign-up"/>
+    <file name="u1022.png" crc="240176289" ref="sign-up"/>
+    <file name="u1022-a.png" crc="240176289" ref="sign-up"/>
+    <file name="u1099-4-a.png" crc="3797175646" ref="sign-up"/>
+    <file name="u1017.png" crc="3821802401" ref="sign-up"/>
+    <file name="u1017-a.png" crc="3821802401" ref="sign-up"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="4107295331" ref="phone>index"/>
+      <file name="user.css" crc="4107295331" ref="phone>user"/>
+      <file name="sign-up.css" crc="4107295331" ref="phone>sign-up"/>
+      <file name="log-in.css" crc="4107295331" ref="phone>log-in"/>
+    </folder>
+    <file name="index.html" crc="2418130" seo="true" mt="1475634906666" redirect="false"/>
+    <file name="user.html" crc="234675988" seo="true" mt="1475634906746" redirect="false"/>
+    <file name="sign-up.html" crc="4149468133" seo="true" mt="1475636411587" redirect="false"/>
+    <file name="log-in.html" crc="27606375" seo="true" mt="1475634906904" redirect="false"/>
+  </folder>
+  <file name="user.html" crc="3790152887" seo="true" mt="1476512556413" redirect="true"/>
+  <file name="index.html" crc="4254154799" seo="true" mt="1475636421954" redirect="true"/>
+  <file name="log-in.html" crc="4058607360" seo="true" mt="1475636565276" redirect="true"/>
+  <file name="sign-up.html" crc="477261246" seo="true" mt="1475636965116" redirect="true"/>
+</manifest>
